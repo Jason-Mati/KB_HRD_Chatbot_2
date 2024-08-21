@@ -148,7 +148,7 @@ pure-eval
 pyarrow
 pycocotools
 pycparser
-pydantic
+
 pydantic_core
 pydeck
 pydub
@@ -239,3 +239,5 @@ XlsxWriter
 yarl
 zipp
 cmake
+pydantic<2.0
+langchain-community
